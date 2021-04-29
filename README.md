@@ -27,6 +27,12 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter
                                                                    
 ```
 
-## nmcli
+# users
+Check the users.md
+
+# bash
+Some bash bk files
+
+# nmcli
 Very happy to try to use only one network tool for all net admin things, let's check if possible!
 
